@@ -415,14 +415,4 @@ input:focus {
   body::after {
     display: block;
   }
-  /* #even-section,
-  #tea-topics,
-  #inspireren,
-  #newsletter,
-  #social,
-  #sitemap,
-  .main-footer {
-    position: relative;
-    z-index: 3;
-  } */
 }
