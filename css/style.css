@@ -415,7 +415,7 @@ input:focus {
   body::after {
     display: block;
   }
-  #even-section,
+  /* #even-section,
   #tea-topics,
   #inspireren,
   #newsletter,
@@ -424,5 +424,5 @@ input:focus {
   .main-footer {
     position: relative;
     z-index: 3;
-  }
+  } */
 }
